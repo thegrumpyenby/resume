@@ -6,4 +6,4 @@ location: Remote
 start: 2023-02-14
 ---
 
-Besides writing, editing, and reviewing content, I am supporting engineers to write and tell their stories through the Scaler Writer program — helping with everything from finding the narrative hook to creating structure and improving writing. I work closely with engineers throughout the Scaleway ecosystem as well as with my colleagues in DevRel.
+Besides creating written and video content, I run the Scaler Writer program, focusing on supporting engineers as they write and tell their stories. I help with everything from finding the narrative hook to creating structure and improving writing. I work closely with engineers, product managers, and product marketing managers from various teams. I also initiated video content at Scaleway, starting the interview series “Scalers go Open Source”.
