@@ -1,5 +1,5 @@
 ---
-title: DevRel Consultant & Tech Content Specialist
+title: Startup Consultant & Tech Content Specialist
 organization: Self-employed
 organizationUrl: https://www.katschthaler.com
 location: Remote
