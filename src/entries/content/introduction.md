@@ -3,7 +3,7 @@ tags: introduction
 title: About Me
 ---
 
-Hi, I’m Kai! I would love to build and/or grow your company’s technical content  and help your engineers create relevant content.
+Hi, I’m Kai! I help product teams explain what they’re working on, creating clear communication for both internal and external use. I can also build and grow your company’s technical content team  and help your engineers create relevant content.
 ### Helping developers create content *for* developers
 The content that matters most to your audience comes from your developers. Many engineers would *love* to communicate their ideas and experiences through blog posts. They just need a bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
 
@@ -28,4 +28,4 @@ I currently work more with engineers than I write my own posts. But when I do, I
 ### Engaging public speaker
 I’m one of those oddballs who genuinely enjoy public speaking. I love giving talks (catch me at [DevRelCon London](https://london-2023.devrelcon.dev/speaker/kai-katschthaler/) in September 2023!), doing live streams or podcasts, and moderating events. I’m involved with and volunteer in various online tech communities and have a keen interest in Diversity, Equity & Inclusion (DEI), mental health, and neurodiversity.
 
-Watch my most recent talk [“How to Talk About Mental Health Without Losing Your Mind” at You Got This Broadcasting Service Conference](https://yougotthis.io/library/talk-about-mental-health-combat-stigma).
+Watch my most recent talk [“Host your interviews like a Golden Globe winner” from DevRelCon 2023 in London](https://www.youtube.com/watch?v=9FgsIkSHG7Y).
