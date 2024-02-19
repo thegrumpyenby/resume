@@ -12,6 +12,7 @@ module.exports = {
             'reddit',
             'slack',
             'whatsapp',
+            'mastodon',
             'twitch'
         ]
         if (isSocial && !availableSocialIcons.includes(id)) {
