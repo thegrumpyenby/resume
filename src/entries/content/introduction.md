@@ -16,4 +16,4 @@ I currently run Open Source Explorers at [Distribute Aid](https://distributeaid.
 
 While being a volunteer position, my work as Program Lead of the Open Source Explorers program involves a high degree of organisation and engagement. It also requires humility, because [we’re building the program in public](https://schalkneethling.substack.com/p/distribute-aid-the-open-source-path). So any mistakes we make, we make out in the open. As always with volunteering, you have to make a lot of things work with few resources. But that gives me ample opportunites to learn and grow as a manager as I try to make the Open Source Explorers program an enjoyable and worthy experience for participants, mentors, and our entire team.
 
-I’d love to talk about how my varied skill set could fit in with your company!
+I’d love to talk with you about how my varied skill set could fit in with and benefit your company!
