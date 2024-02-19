@@ -8,15 +8,19 @@
     "website": "https://katschthaler.com",
     "skills": [
         "Technical Communication",
-        "Developer-Focused Content",
+        "Developer Content (written/video/audio)",
         "Content Strategy",
-        "Editorial",
-        "Interviews",
+        "Copywriting & editing",
+        "Mentoring writers",
+        "Culture, Branding & Tone of Voice",
         "Public Speaking",
         "Live-Streaming",
+        "1on1 interviews",
+        "Panel & event moderation",
+        "People management",
+        "Project management",
         "HTML & CSS",
-        "Python",
-        "Culture, Branding & Tone of Voice"
+        "Various digital skills (Canva etc.)"
     ],
     "languages": [
         {
@@ -36,6 +40,10 @@
             "level": "second mother tongue, very rusty"
         },
         {
+            "name": "ASL (American Sign Language)",
+            "level": "beginner"
+        }
+        {
             "name": "I Also Speak Dev",
             "level": "fluent"
         }
@@ -52,9 +60,9 @@
             "url": "https://www.linkedin.com/in/kaikatschthaler/"
         },
         {
-            "name": "Twitter",
+            "name": "Mastodon",
             "user": "@thegrumpyenby",
-            "url": "https://www.twitter.com/thegrumpyenby"
+            "url": "https://tenforward.social/@thegrumpyenby"
         },
         {
             "name": "Twitch",
