@@ -1,9 +1,9 @@
 {
     "name": "Kai Katschthaler",
     "occupation": "Technical Communication Specialist",
-    "location": "EU/Remote",
-    "avatar": "kai-katschthaler.jpeg",
-    "pronouns": "they/them",
+    "location": "Northern Spain/Remote EU",
+    "avatar": "kai-katschthaler.jpg",
+    "pronouns": "he/they",
     "email": "kai@katschthaler.com",
     "website": "https://katschthaler.com",
     "skills": [
@@ -34,6 +34,10 @@
         {
             "name": "Italian",
             "level": "intermediate (used to be fluent)"
+        },
+        {
+            "name": "Spanish",
+            "level": "beginner but immersive learning"
         },
         {
             "name": "Hungarian",
